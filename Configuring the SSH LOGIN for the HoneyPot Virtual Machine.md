@@ -57,7 +57,9 @@ The Command: ssh username(which is kali)@vm_ipaddress(which is 172.168.72.20) sh
 Here is my screenshot of me connecting to my HoneyPot VirtualMachine Via SSH. <br>
 <img width="1001" height="696" alt="image" src="https://github.com/user-attachments/assets/c4e74d2f-d4db-4ca6-8a16-5539a42cb8bf" /> <br>
 
-And as you can see from previous screenshots that I used the same IP ADDRESS and the HostName is the same which is HoneyPotty. 
+And as you can see from previous screenshots that I used the same IP ADDRESS and the HostName is the same which is HoneyPotty. Also Just to not forget, The Password for Login in to the SSH should be the same password for the Virtual Machine you are trying to log into not your SSH PassPhrase...
+
+# THANK YOU 
 
 
 
