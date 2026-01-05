@@ -1,4 +1,4 @@
-# SSH SETUP FOR HONEYPOT VM
+# SSH SETUP FOR HONEYPOT VM.
 I created a the KeyPair file (Public and Private) using the this command <br> <img width="348" height="23" alt="image" src="https://github.com/user-attachments/assets/0bce99d7-f2ab-4d2e-b8b5-258ed2f26ec1" /> <br>
 which was saved on my Local Host (PC) and then I used this command to locate and view my Public Key <br>
 <img width="361" height="22" alt="image" src="https://github.com/user-attachments/assets/ee71b459-9afc-40a2-ba86-c0fdc499ffb5" /><br>
